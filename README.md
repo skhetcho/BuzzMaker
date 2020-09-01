@@ -2,7 +2,7 @@
 Create a business page for your clients in few seconds. Create something that matters.
 
 
-![N|Solid](http://70.79.168.163/uploads/example.PNG)
+![N|Solid](https://i.imgur.com/6PD03sp.png)
 
 
 [![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/sourenkhetcho/) [![Linkedin](https://img.shields.io/badge/Connect-LinkedIn-0E76A8.svg)](https://www.linkedin.com/in/sourenkhetcho/)
