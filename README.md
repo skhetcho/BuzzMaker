@@ -21,12 +21,17 @@ Procedure:
 The business has to be on Google Maps in the first place
 Visis: ```https://developers.google.com/places/place-id``` to get your desired place id
 Visit: ```https://console.cloud.google.com/``` to get your Google Maps API Key
+
 **Note**: if you don't know how to get a Google Maps API Key follow [this link](https://developers.google.com/maps/documentation/embed/get-api-key)
+
+**Note**: if you don't enable CORS when developing, the webpage will not load. You can simply us [Moesif CORS extension](https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc). For a more sophisticated fasion, you can use Express.js
+
+
 ```sh
 $ git clone https://github.com/skhetcho/BuzzMaker.git
 $ cd BuzzMaker
 $ npm install
-$ python make.ph
+$ python make.py
 ```
 **Follow the instructions posted by the python script and allow it to do its work**
 **The files that you will need to deploy/host on the server are found in** ```./build```
